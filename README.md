@@ -1,6 +1,6 @@
 # CADS Messages and highlights
 
-See also [https://confluence.ecmwf.int/display/CDSM/Messages+management](Messages management).
+See also [Messages management](https://confluence.ecmwf.int/display/CDSM/Messages+management).
 
 ## Structure
 
