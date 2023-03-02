@@ -1,6 +1,6 @@
 ---
 date: 2023-02-28T10:15:00Z
-severity: warn
+severity: warning
 entries: dummy-dataset
 live: true
 status: ongoing
