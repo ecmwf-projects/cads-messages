@@ -1,6 +1,7 @@
 ---
 date: 2023-06-13T11:25:00Z
 live: true
+severity: success
 ---
  
 The message system is now up and running!
