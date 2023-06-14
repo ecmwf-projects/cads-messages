@@ -3,7 +3,7 @@ date: 2023-06-13T09:30:00Z
 live: True
 ---
  
-This is an example a a **portal message**.  \
+This is an example a a **portal message**.\
 
 Portal messages are:
 
