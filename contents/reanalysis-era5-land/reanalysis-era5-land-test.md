@@ -4,5 +4,5 @@ entries: reanalysis-era5-land, efas-forecast
 live: true
 ---
 
-This is our new nice dataset to be used!
+Efas and landed!
 
