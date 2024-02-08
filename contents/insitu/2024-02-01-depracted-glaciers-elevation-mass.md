@@ -8,4 +8,4 @@ live: true
 This Catalogue entry is now deprecated.<br> Users should use the replacement catalogue entry which contains
 the updated data: 
 
-[Glacier mass change gridded data from 1976 to present derived from the Fluctuations of Glaciers Database](./derived-reanalysis-energy-moisture-budget)
+[Glacier mass change gridded data from 1976 to present derived from the Fluctuations of Glaciers Database](./derived-gridded-glacier-mass-change?)
