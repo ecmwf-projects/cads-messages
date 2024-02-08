@@ -1,7 +1,9 @@
 ---
 date: 2024-02-01T00:00:00Z
 severity: info
-entries: cems-glofas-forecast
+entries: 
+- cems-glofas-forecast
+- cems-glofas-historical
 live: true
 ---
  
