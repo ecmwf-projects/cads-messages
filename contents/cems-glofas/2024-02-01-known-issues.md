@@ -1,6 +1,6 @@
 ---
 date: 2024-02-01T00:00:00Z
-severity: warning
+severity: info
 entries: cems-glofas-forecast,cems-glofas-historical,cems-glofas-reforecast,cems-glofas-seasonal
 live: true
 ---
