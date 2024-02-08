@@ -1,7 +1,7 @@
 ---
 date: 2023-07-25T16:19:32Z
 severity: info
-entries: sis-agroproductivity-indicators
+entries: test-adaptor-dummy
 live: true
 ---
 
