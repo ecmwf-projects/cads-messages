@@ -4,4 +4,4 @@ live: true
 severity: warning
 ---
 
-The production stacks of the CDS, ADS, ECDS and CEMS portals now use the production Keycloak. Users might need to recreate their accounts!
+The production stack of the CDS now uses the production Keycloak. Users might need to recreate their accounts!
