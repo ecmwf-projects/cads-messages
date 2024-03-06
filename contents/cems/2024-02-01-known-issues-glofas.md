@@ -6,5 +6,5 @@ live: true
 ---
 
 Please note we suggest checking the list of known issues on the GloFAS wiki
-[here](https://confluence.ecmwf.int/display/CEMS/GloFAS+-+Known+Issues\)
+[here](https://confluence.ecmwf.int/display/CEMS/GloFAS+-+Known+Issues)
 before downloading the dataset.
