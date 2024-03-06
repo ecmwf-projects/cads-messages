@@ -8,6 +8,3 @@ live: true
 Please note we suggest checking the list of known issues on the GloFAS wiki
 [here](https://confluence.ecmwf.int/display/CEMS/GloFAS+-+Known+Issues)
 before downloading the dataset.
-
-<a href=\"https://confluence.ecmwf.int/display/CEMS/GloFAS+-+Known+Issues\" target=\"_blank\">here</a>
-
