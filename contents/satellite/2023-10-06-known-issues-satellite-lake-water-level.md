@@ -1,7 +1,7 @@
 ---
 date: 2023-10-06T00:00:00Z
 severity: info
-entries: satellite-precipitation
+entries: satellite-lake-water-level
 live: true
 ---
 
