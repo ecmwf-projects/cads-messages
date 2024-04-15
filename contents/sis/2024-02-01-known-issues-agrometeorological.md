@@ -5,4 +5,4 @@ entries: sis-agrometeorological-indicators
 live: true
 ---
 
-An issue has been identified with version 1.0 & version 1.1 of this dataset. Please see the Known issues table in the Documentation tab for more information. Note API requests need to be modified due to the addition of the Version keyword.
+An issue has been identified with version 1.0 & version 1.1 of this dataset. Please see the Known issues table in the Documentation for more information.
