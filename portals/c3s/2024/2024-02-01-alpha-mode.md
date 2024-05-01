@@ -4,4 +4,4 @@ live: true
 severity: warning
 ---
 
-This is the ALPHA version of the CADS infrastucture just for internal use. Please refer your inputs and comments to CDS Team.
+This is a BETA version of the new CDS infrastructure for testing and evaluation purposes. Please refer your inputs and comments to User Support.
