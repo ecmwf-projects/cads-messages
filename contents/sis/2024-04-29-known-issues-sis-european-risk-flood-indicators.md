@@ -1,0 +1,8 @@
+---
+date: 2024-04-09T00:00:00Z
+severity: warning
+entries: sis-european-risk-flood-indicators
+live: true
+---
+
+This dataset is no longer supported and will be removed at a later date. Data and documentation are provided as is.
