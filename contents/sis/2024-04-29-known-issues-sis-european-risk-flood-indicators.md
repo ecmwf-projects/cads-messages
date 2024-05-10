@@ -5,4 +5,4 @@ entries: sis-european-risk-flood-indicators
 live: true
 ---
 
-This dataset is no longer supported and will be removed at a later date. Data and documentation are provided as is.
+This dataset is deprecated and no longer supported. Data and documentation are provided as is.
