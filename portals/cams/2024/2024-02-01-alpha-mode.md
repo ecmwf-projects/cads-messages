@@ -1,7 +1,7 @@
 ---
-date: 2024-02-01T00:00:00Z
+date: 2024-05-10T00:00:00Z
 live: true
 severity: warning
 ---
 
-This is the ALPHA version of the CADS infrastucture and is not for public use.
+This is a BETA version of the new ADS. Your feedback is very useful for us. Please notice that still access to the system my suffer some disruptions as this is being regularly updated.
