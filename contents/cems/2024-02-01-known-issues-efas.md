@@ -6,5 +6,5 @@ live: true
 ---
 
 Please note that we suggest checking the list of known issues on the EFAS wiki
-[here](https://confluence.ecmwf.int/display/CEMS/EFAS+-+Known+Issues\)
+[here](https://confluence.ecmwf.int/display/CEMS/EFAS+-+Known+Issues)
 before downloading the dataset.

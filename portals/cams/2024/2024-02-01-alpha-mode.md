@@ -1,7 +1,7 @@
 ---
-date: 2024-02-01T00:00:00Z
+date: 2024-05-15T00:00:00Z
 live: true
 severity: warning
 ---
 
-This is the ALPHA version of the CADS infrastucture and is not for public use.
+This is a **BETA version** of the new ADS. Your [feedback](https://jira.ecmwf.int/plugins/servlet/desk/portal/1/create/202) is very useful for us. **Please notice** that access to the system might suffer some disruptions due to evolving updates.
