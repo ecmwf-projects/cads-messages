@@ -5,5 +5,5 @@ entries: insitu-gridded-observations-europe
 live: true
 ---
 
-The  previous API syntax was sligtly modofied. Please replace any dots by underscores in your old  API requests.
+The previous API syntax was slightly modified. Please replace any dots with underscores in your old API requests.
 
