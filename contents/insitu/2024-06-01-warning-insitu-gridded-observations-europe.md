@@ -5,5 +5,5 @@ entries: insitu-gridded-observations-europe
 live: true
 ---
 
-The correction of a bug in th esluggification of names in the download form will prevent the previous API syntax to work. 
-Please replace any dots by underscores in your old  API requests.
+The correction of a bug in the sluggification of names in the download form will prevent the previous API syntax to work. Please replace any dots by underscores in your old  API requests.
+
