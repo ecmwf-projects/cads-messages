@@ -5,4 +5,4 @@ entries: satellite-sea-level-global
 live: true
 ---
 
-An issue affecting access to the data has been reported - users will be unable to download parts of this dataset. We are working on resolving this issue as soon as possible.
+An issue affecting access to the data has been reported. Users will be unable to download parts of this dataset. We are working on resolving this issue as soon as possible.
