@@ -1,7 +1,7 @@
 ---
-date: 2024-03-01T00:00:00Z
-live: false
+date: 2024-08-08T00:00:00Z
+live: true
 severity: warning
 ---
 
-The production stack of the ADS now uses the production Keycloak. Users might need to recreate their accounts!
+Check our [informative page](https://confluence.ecmwf.int/x/uINmFw) to best prepare yourself to use ADS-Beta.
