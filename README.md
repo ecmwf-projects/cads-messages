@@ -4,11 +4,11 @@ See also [Messages management](https://confluence.ecmwf.int/display/CDSM/Message
 
 ## Structure
 
-### `portals`
+### `sites`
 
-Organized in subfolders, named as the label of each portal. Each subfolder contains portal messages 
-to be displayed in every page of the portal, until they are expired. 
+Organized in subfolders, named as the label of each web portal.
+Each subfolder contains portal messages to be displayed in every page of the portal, until they are expired.
 
 ### `contents`
 
-Content related messages, to be displayed on a specific resource.
+Content related messages, to be displayed on a specific resource (or multiple resource, see documentation above).
