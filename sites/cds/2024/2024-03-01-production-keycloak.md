@@ -4,4 +4,4 @@ live: true
 severity: info
 ---
 
-Watch our Forum for Announcements, news and other discussed topics.
+Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
