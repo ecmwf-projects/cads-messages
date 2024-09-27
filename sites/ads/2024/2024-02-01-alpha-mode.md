@@ -1,7 +1,8 @@
 ---
-date: 2024-08-08T00:00:00Z
+date: 2024-09-26T00:00:00Z
 live: true
-severity: warning
+severity: info
 ---
 
-**BETA version** of the new ADS. Your [feedback](https://jira.ecmwf.int/plugins/servlet/desk/portal/1/create/202) is very useful for us. **Please notice** that access to the system might suffer some disruptions due to evolving updates.
+**Welcome to the New Atmosphere Data Store (ADS)!** This new system is in its early days of full operations and still undergoing enhancements and fine tuning. Some disruptions are to be expected. Your 
+[feedback](https://jira.ecmwf.int/plugins/servlet/desk/portal/1/create/202) is key to improve the user experience on the new ADS for the benefit of everyone. Thank you.
