@@ -1,7 +1,7 @@
 ---
-date: 2024-03-01T00:00:00Z
-live: false
-severity: warning
+date: 2024-09-26T00:00:00Z
+live: true
+severity: info
 ---
 
-User authentication is now integrated with ECMWF.
+Watch our Forum for Announcements, news and other discussed topics.
