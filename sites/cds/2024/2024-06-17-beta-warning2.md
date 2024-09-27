@@ -4,4 +4,4 @@ live: true
 severity: warning
 ---
 
-Check our [informative page](https://confluence.ecmwf.int/x/uINmFw) to best prepare yourself to use the new CDS.
+Should you have not yet migrated from the old CDS system to the new CDS, please check our [informative page](https://confluence.ecmwf.int/x/uINmFw) for guidance.
