@@ -4,4 +4,4 @@ live: true
 severity: warning
 ---
 
-Check our [informative page](https://confluence.ecmwf.int/x/uINmFw) to best prepare yourself to use new ADS.
+Should you have not yet migrated from the old ADS system to the new ADS, please check our [informative page](https://confluence.ecmwf.int/x/uINmFw) for guidance.
