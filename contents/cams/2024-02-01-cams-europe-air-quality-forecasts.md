@@ -1,6 +1,6 @@
 ---
 date: 2024-10-07T00:00:00Z
-severity: info
+severity: warning
 entries: cams-europe-air-quality-forecasts
 live: true
 ---
