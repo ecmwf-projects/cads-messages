@@ -1,7 +1,7 @@
 ---
-date: "2024-10-10T00:00:00Z"
-severity: "warning"
-entries: "reanalysis-era5-single-levels"
+date: 2024-10-10T00:00:00Z
+severity: warning
+entries: reanalysis-era5-single-levels
 live: true
 ---
 
