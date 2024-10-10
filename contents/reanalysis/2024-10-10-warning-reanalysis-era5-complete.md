@@ -1,7 +1,7 @@
 ---
-date: "2024-10-10T00:00:00Z"
-severity: "warning"
-entries: "reanalysis-era5-complete"
+date: 2024-10-10T00:00:00Z
+severity: warning
+entries: reanalysis-era5-complete
 live: true
 ---
 The final validated ERA5 differs from ERA5T in July 2024 - please refer to our
