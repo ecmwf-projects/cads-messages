@@ -4,4 +4,4 @@ live: true
 severity: warning
 ---
 
-Core system session in now over. Performance is expected to gradually improve. You can check status [here](https://status.ecmwf.int/).
+Core system session in now over. Consolidation actions runnign in the background might still affect performance. You can check status [here](https://status.ecmwf.int/).
