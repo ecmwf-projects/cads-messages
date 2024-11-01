@@ -1,7 +1,7 @@
 ---
 date: 2024-10-30T00:00:00Z
-live: true
-severity: warning
+live: false
+severity: info
 ---
 
-System is having technical problems on its adaptor for accessing external URLs. Some requests might randomnly fail. We are working to resume operations asap.
+Issue accessing external URLs is now solved.
