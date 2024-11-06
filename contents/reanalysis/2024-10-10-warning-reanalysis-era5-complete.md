@@ -4,7 +4,7 @@ severity: warning
 entries: reanalysis-era5-complete
 live: true
 ---
-The final validated ERA5 differs from ERA5T in July 2024 - please refer to our
+The final validated ERA5 differs from ERA5T from July 2024 until further notice - please refer to our
 [Forum announcement](https://forum.ecmwf.int/t/final-validated-era5-product-to-differ-from-era5t-in-july-2024/6685)
 for details and watch it for further updates on this.   
 
