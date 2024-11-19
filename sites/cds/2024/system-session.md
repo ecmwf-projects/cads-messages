@@ -4,4 +4,4 @@ live: true
 severity: warning
 ---
 
-System is in degraded status due to issues affecting the underlaying infrastructure. Please check updated status [here](https://status.ecmwf.int/)
+Issue with underlaying infrastructure is now solved. System should gradually recover. Please check updated status [here](https://status.ecmwf.int/)
