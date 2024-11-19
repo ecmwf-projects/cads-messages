@@ -4,4 +4,4 @@ live: true
 severity: warning
 ---
 
-System is in degraded status due to issues affecting the underlaying infrastructure. Please check updated status [here](https://confluence.ecmwf.int/x/uINmFw)
+System is in degraded status due to issues affecting the underlaying infrastructure. Please check updated status [here](https://status.ecmwf.int/)
