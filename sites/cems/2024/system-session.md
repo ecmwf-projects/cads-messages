@@ -1,7 +1,7 @@
 ---
-date: 2024-10-30T00:00:00Z
-live: false
+date: 2024-11-19T00:00:00Z
+live: true
 severity: warning
 ---
 
-System is having technical problems on its adaptor for accessing external URLs. Some requests might randomnly fail. We are working to resume operations asap.
+System is in degraded status due to issues affecting the underlaying infrastructure. Please check updated status [here](https://confluence.ecmwf.int/x/uINmFw)
