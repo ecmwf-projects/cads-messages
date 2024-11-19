@@ -1,7 +1,7 @@
 ---
-date: 2024-10-30T00:00:00Z
-live: false
-severity: info
+date: 2024-11-19T00:00:00Z
+live: true
+severity: warning
 ---
 
-Issue accessing external URLs is now solved.
+System is in degraded status due to issues affecting the underlaying infrastructure. Please check updated status [here](https://confluence.ecmwf.int/x/uINmFw)
