@@ -4,4 +4,4 @@ live: true
 severity: warning
 ---
 
-Issue with underlaying infrastructure is now solved. System should gradually recover. Please check updated status [here](https://status.ecmwf.int/)
+System is experiencing performance issues. Please check updated status [here](https://status.ecmwf.int/)
