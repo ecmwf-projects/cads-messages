@@ -1,8 +1,8 @@
 ---
-date: 2024-11-26T00:00:00Z
+date: 2024-11-27T00:00:00Z
 live: true
-severity: warning
+severity: critical
 ---
 
-System is experiencing performance issues. Please check updated status [here](https://status.ecmwf.int/)
+System is currently unavailable. Please follow updates [here](https://forum.ecmwf.int/t/cds-ads-and-ewds-down-until-further-notice/8015) and status [here](https://status.ecmwf.int/)
 
