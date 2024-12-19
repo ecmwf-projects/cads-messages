@@ -5,7 +5,4 @@ entries: reanalysis-era5-single-levels
 live: true
 ---
 
-The final validated ERA5 differs from ERA5T from July 2024 until further notice - please refer to our
-[Forum announcement](https://forum.ecmwf.int/t/final-validated-era5-product-to-differ-from-era5t-in-july-2024/6685)
-for details and watch it for further updates on this.   
-
+From 1 July to 17 November 2024, the final ERA5 product is different to ERA5T due to the correction of [the assimilation of incorrect snow observations on the Alps](https://confluence.ecmwf.int/x/USuXGw)
