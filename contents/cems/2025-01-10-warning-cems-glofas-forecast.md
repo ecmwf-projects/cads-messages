@@ -2,7 +2,7 @@
 date: 2025-01-10T00:00:00Z
 severity: info
 entries: cems-glofas-forecast
-live: true
+live: false
 ---
  
 Due to an error identified in the initial conditions, GloFAS forecasts data from 01 January 2025 onward should not be downloaded until further notice.
