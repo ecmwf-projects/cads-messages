@@ -1,8 +1,7 @@
 ---
 date: 2029-01-29T00:00:00Z
 severity: info
-entries: satellite-sea-surface-temperature-ensemble-product,
-satellite-ice-sheet-mass-balance
+entries: satellite-sea-surface-temperature-ensemble-product,satellite-ice-sheet-mass-balance
 live: true
 ---
 
