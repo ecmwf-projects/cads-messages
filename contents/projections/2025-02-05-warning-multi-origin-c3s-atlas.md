@@ -1,6 +1,6 @@
 ---
 date: 2025-02-13T00:00:00Z
-severity: info
+severity: warning
 entries: multi-origin-c3s-atlas
 live: true
 ---
