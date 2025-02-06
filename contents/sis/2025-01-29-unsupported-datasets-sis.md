@@ -1,5 +1,5 @@
 ---
-date: 2029-01-29T00:00:00Z
+date: 2025-01-29T00:00:00Z
 severity: info
 entries: sis-extreme-indices-cmip6,sis-hydrology-meteorology-derived-projections,sis-hydrology-variables-derived-projections,sis-european-wind-storm-indicators,sis-european-wind-storm-synthetic-events,sis-ocean-wave-indicators,sis-ocean-wave-timeseries,sis-biodiversity-era5-global,sis-biodiversity-era5-regional,sis-biodiversity-cmip5-global,sis-biodiversity-cmip5-regional,sis-european-risk-extreme-precipitation-indicators,sis-marine-properties,sis-tourism-snow-indicators,sis-tourism-fire-danger-indicators,sis-heat-and-cold-spells,sis-temperature-statistics,sis-health-vector
 live: true
