@@ -1,7 +1,9 @@
 ---
-date: 2024-05-15T00:00:00Z
+date: 2025-05-10T00:00:00Z
 live: true
-severity: warning
+severity: info
 ---
 
-**BETA version** of the new [CEMS](https://emergency.copernicus.eu/) [Early Warning Data Store (EWDS)](https://ewds-beta.climate.copernicus.eu/). Your [feedback](https://jira.ecmwf.int/plugins/servlet/desk/portal/1/create/202) is very useful for us. **Please notice** that access to the system might suffer some disruptions due to evolving updates.
+🚀 ***New Dataset Published!***  
+
+Explore the newly released ***Fire Fuel Characteristics dataset*** [here](https://cems-dev-cci2.copernicus-climate.eu/datasets/derived-fire-fuel-biomass?tab=overview). This dataset provides ***crucial data for modeling wildfire activity***, supporting improved analysis and risk assessment. 
