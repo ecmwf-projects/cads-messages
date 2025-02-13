@@ -1,5 +1,5 @@
 ---
-date: 2025-01-28T00:00:00Z
+date: 2025-01-01T00:00:00Z
 severity: warning
 entries: satellite-sea-ice
 live: true
