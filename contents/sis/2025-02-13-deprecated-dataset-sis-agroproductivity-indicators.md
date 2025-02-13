@@ -5,4 +5,4 @@ entries: sis-agroproductivity-indicators
 live: true
 ---
 
-This dataset has been deprecated. Access to the data will be closed in 3-months from today.
+This dataset has been deprecated. Access to the data will be closed in 3-months.
