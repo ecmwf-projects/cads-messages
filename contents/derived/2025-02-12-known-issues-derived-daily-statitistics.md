@@ -1,7 +1,7 @@
 ---
 date: 2025-02-12T00:00:00Z
 severity: warning
-entries: derived-era5-single-levels-daily-statistics,derived-era5-single-levels-daily-statistics,derived-era5-single-levels-daily-statistics
+entries: derived-era5-single-levels-daily-statistics,derived-era5-pressure-levels-daily-statistics,derived-era5-land-daily-statistics
 live: true
 ---
 
