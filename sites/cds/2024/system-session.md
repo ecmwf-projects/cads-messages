@@ -1,7 +1,8 @@
 ---
-date: 2024-11-27T00:00:00Z
-live: false
+date: 2024-04-03T00:00:00Z
+live: true
 severity: warning
 ---
 
-System is back on service under testing conditions. Please follow updates [here](https://forum.ecmwf.int/t/cds-ads-and-ewds-down-until-further-notice/8015) and status [here](https://status.ecmwf.int/)
+System is in degraded status due to underlaying infrastructure problems. Please follow status [here](https://status.ecmwf.int/)
+
