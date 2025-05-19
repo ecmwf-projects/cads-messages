@@ -1,8 +1,8 @@
 ---
-date: 2025-04-03T00:00:00Z
-live: false
+date: 2025-05-15T00:00:00Z
+live: true
 severity: warning
 ---
 
-System is in degraded status due to issues on the underlying infrastructure. Please follow status [here](https://status.ecmwf.int/) or in our [forum](https://forum.ecmwf.int/t/data-stores-in-degraded-status/12472)
+Scheduled maintenance of the Data Stores Cloud Infrastructure - 19 May 2025. Please follow status [here](https://status.ecmwf.int/) or in our [forum](https://forum.ecmwf.int/t/scheduled-maintenance-of-the-data-stores-cloud-infrastructure-19-may-2025/13056/1)
 
