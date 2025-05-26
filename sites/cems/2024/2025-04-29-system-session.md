@@ -1,7 +1,7 @@
 ---
-date: 2025-04-29T00:00:00Z
-live: false
+date: 2025-05-26T00:00:00Z
+live: true
 severity: warning
 ---
 
-Multiple maintenance sessions are planned this week, which may affect data downloads and other services. Check [here](https://status.ecmwf.int/) for status updates.
+Service is suffering some disruptions. Please check [here](https://status.ecmwf.int/) for status updates.
