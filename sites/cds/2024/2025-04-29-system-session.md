@@ -4,4 +4,4 @@ live: true
 severity: warning
 ---
 
-Service is suffering some disruptions. Please check [here](https://status.ecmwf.int/) for status updates.
+Service may suffer disruptions. Please check [here](https://status.ecmwf.int/) for status updates.
