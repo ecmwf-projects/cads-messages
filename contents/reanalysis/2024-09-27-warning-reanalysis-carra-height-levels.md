@@ -1,8 +1,8 @@
 ---
-date: 2024-09-27T00:00:00Z
+date: 2025-06-30T00:00:00Z
 severity: warning
 entries: reanalysis-carra-height-levels
 live: false
 ---
-The production of the CARRA updates for July had been delayed. We aim to update the dataset by October 8th at the latest.
+Please note that the data for the period April – October 2024 was also updated. See more details [here](https://confluence.ecmwf.int/display/CKB/Copernicus+Arctic+Regional+Reanalysis+%28CARRA%29%3A+known+issues+and+uncertainty+information)
 
