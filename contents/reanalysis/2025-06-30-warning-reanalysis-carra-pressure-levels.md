@@ -4,4 +4,4 @@ severity: warning
 entries: reanalysis-carra-pressure-levels
 live: true
 ---
-Please note that the data for the period April – October 2024 was also updated. See more details [here](https://confluence.ecmwf.int/display/CKB/Copernicus+Arctic+Regional+Reanalysis+%28CARRA%29%3A+known+issues+and+uncertainty+information)
+Please note that the data for the period April – October 2024 was also updated. See more details [here](https://confluence.ecmwf.int/display/CKB/Copernicus+Arctic+Regional+Reanalysis+%28CARRA%29%3A+known+issues+and+uncertainty+information#CopernicusArcticRegionalReanalysis(CARRA):knownissuesanduncertaintyinformation-(Rerun)SomenoiseinpressureandtemperaturedatafortheperiodApril-October2024)
