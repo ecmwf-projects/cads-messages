@@ -1,9 +1,8 @@
 ---
-date: 2024-06-01T00:00:00Z
+date: 2025-08-04T00:00:00Z
 severity: warning
-entries: insitu-gridded-observations-europe
-live: false
+entries: insitu-observations-woudc-ozone-total-column-and-profiles
+live: true
 ---
 
-The previous API syntax was slightly modified. Please replace any dots with underscores in your old API requests.
-
+Access to this dataset is currently experiencing irregularities, and some requests may fail. We are working to restore full availability. In case of failure, please try again later.
