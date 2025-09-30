@@ -5,4 +5,4 @@ severity: warning
 show_date: false
 ---
 
-# This is just a test message!
+<span style="color:red">This is just a test message!</span>
