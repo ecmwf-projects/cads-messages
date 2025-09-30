@@ -5,7 +5,7 @@ severity: critical
 show_date: true
 ---
 
-## <span style="color:red">This stack is currently in a **non-standard** configuration!</span>
+### <span style="color:red">This stack is currently in a **non-standard** configuration!</span>
 The following might be based on a different revision than you might expect:
 - datasets
 - licences
