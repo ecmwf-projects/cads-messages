@@ -1,7 +1,7 @@
 ---
-date: 2024-08-08T00:00:00Z
-live: true
+date: 2025-01-08T00:00:00Z
+live: false
 severity: warning
 ---
 
-Check our [informative page](https://confluence.ecmwf.int/x/uINmFw) to best prepare yourself to use ADS-Beta.
+Please be informed that Beta URL (ads-beta) have been now discontinued. If you still need to migrate, please follow [available instructions here](https://forum.ecmwf.int/t/goodbye-legacy-climate-data-store-hello-new-climate-data-store-cds/6380)
