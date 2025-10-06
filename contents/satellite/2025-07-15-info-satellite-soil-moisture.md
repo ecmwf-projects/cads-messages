@@ -1,0 +1,7 @@
+---
+date: 2025-07-15T00:00:00Z
+severity: info
+entries: satellite-soil-moisture
+live: true
+---
+From 2025-07-14, the Active and Combined products will no longer be regularly updated due to changes in the ASCAT Soil Moisture products. The Passive product is unaffected. Regular updates of the Active and Combined products will resume upon release of v202505. Please watch the [forum](https://forum.ecmwf.int/t/temporary-change-with-cds-soil-moisture-gridded-data-updates/13801) for future announcements.
