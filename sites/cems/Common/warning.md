@@ -4,4 +4,4 @@ live: true
 severity: critical
 ---
 
-This is a non-production environment and should not be used. The data here is unreliable. For production environment go to [here](https://ewds.climate.copernicus.eu/).
+This is an experimental and unsupported instance of the data store, not to be used in a production environment. 
