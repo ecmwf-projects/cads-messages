@@ -4,4 +4,4 @@ live: true
 severity: critical
 ---
 
-This is an experimental and unsupported instance of the data store, not to be used in a production environment. 
+This is an experimental and unsupported instance of the data store, not to be used in a production environment. For production environment go to [here](https://ewds.climate.copernicus.eu/).
