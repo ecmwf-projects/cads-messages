@@ -4,4 +4,4 @@ severity: warning
 entries: satellite-sea-surface-temperature,satellite-sea-surface-temperature-ensemble-product
 live: true
 ---
-We are currently experiencing data access issues that may cause some download requests to fail. Older versions of the data are unavailable. We anticipate that access will restored in the near future.
+We are currently experiencing data access issues that may cause some download requests to fail. Older versions of the data are unavailable [more details](https://www.ceda.ac.uk/news/updates/2025/2025-11-28-incident-data-list/). We anticipate that access will restored in the near future.
