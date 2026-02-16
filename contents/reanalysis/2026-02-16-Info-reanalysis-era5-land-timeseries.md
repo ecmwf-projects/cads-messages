@@ -1,6 +1,6 @@
 ---
 date: 2026-02-16T00:00:00Z
-severity: Info
+severity: info
 entries: reanalysis-era5-land-timeseries
 live: true
 ---
