@@ -1,7 +1,7 @@
 ---
-date: 2025-09-19T00:00:00Z
-live: false
-severity: warning
+date: 2026-02-25T00:00:00Z
+live: true
+severity: info
 ---
 
-Scheduled System Session affecting Service reliability - 22 September 2025. Please follow status [here](https://status.ecmwf.int/) or in our [forum](https://forum.ecmwf.int/t/scheduled-maintenance-of-the-cloud-infrastructure-on-22-september-2025/14173)
+Please note that the announced software upgrade for data extraction of a geographical area from selected CAMS global datasets was successfully implemented on 25 February. For further details, please [visit our forum announcement](https://forum.ecmwf.int/t/software-upgrade-for-data-extraction-of-a-geographical-area-from-selected-cams-global-datasets/14605).
