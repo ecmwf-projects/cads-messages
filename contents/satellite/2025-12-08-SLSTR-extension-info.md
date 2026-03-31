@@ -1,7 +1,7 @@
 ---
 date: 2025-12-08T00:00:00Z
 severity: info
-entries: satellite-cloud-properties, satellite-earth-radiation-budget, satellite-surface-radiation-budget
+entries: satellite-earth-radiation-budget, satellite-surface-radiation-budget
 live: true
 ---
 
