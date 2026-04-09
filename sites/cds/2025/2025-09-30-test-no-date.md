@@ -12,4 +12,5 @@ The following might be based on a different revision than you might expect:
 - messages
 - CIM
 - other contents/pages.
+
 The application version and configuration might also be different and/or subject to change.
