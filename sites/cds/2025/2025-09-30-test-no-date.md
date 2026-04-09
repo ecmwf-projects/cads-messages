@@ -1,6 +1,6 @@
 ---
-date: 2025-09-30T00:00:00Z
-live: false
+date: 2026-04-09T00:00:00Z
+live: true
 severity: critical
 show_date: true
 ---
@@ -12,3 +12,4 @@ The following might be based on a different revision than you might expect:
 - messages
 - CIM
 - other contents/pages.
+The application version and configuration might also be different and/or subject to change.
