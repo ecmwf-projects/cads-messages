@@ -1,7 +1,7 @@
 ---
-date: 2025-04-17T00:00:00Z
+date: 2025-05-07T00:00:00Z
 severity: info
-entries: sis-water-level-change-timeseries-cmip6
+entries: sis-ecde-climate-indicators
 live: true
 ---
 
