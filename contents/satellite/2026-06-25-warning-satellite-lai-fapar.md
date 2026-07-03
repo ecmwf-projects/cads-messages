@@ -4,4 +4,4 @@ severity: warning
 entries: satellite-lai-fapar
 live: true
 ---
-Older dataset versions will be deprecated within the next three months. Only the latest version for each satellite sensor will be retained. Please download any earlier versions you need before they are removed.
+Version 4 will be deprecated in the next three months. If you require this version, please download it before it is removed.
