@@ -4,4 +4,4 @@ severity: info
 entries: ecv-for-climate-change
 live: true
 ---
-New release is now live: sea surface temperature, 12 month running mean and seasonal mean for the absolute fields, seasonal anomalies!
+New release is coming: sea surface temperature, 12 month running mean and seasonal mean for the absolute fields, seasonal anomalies!
