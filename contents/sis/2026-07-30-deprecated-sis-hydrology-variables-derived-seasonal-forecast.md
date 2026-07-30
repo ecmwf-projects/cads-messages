@@ -5,4 +5,4 @@ entries: sis-hydrology-variables-derived-seasonal-forecast
 live: true
 ---
 
-This dataset has been superseded and access to the data will be closed in due course. Users are requested to migrate to this CDS [dataset](https://cds.climate.copernicus.eu/datasets/sis-hydrology-europe-seasonal), which continues to be supported.
+This dataset is no longer supported and access to the data will be closed in due course. Users are requested to switch to a new CDS dataset that continues to be supported: [Multi-model hydrological seasonal forecasts and historical simulations for Europe](https://cds.climate.copernicus.eu/datasets/sis-hydrology-europe-seasonal)
