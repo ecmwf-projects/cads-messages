@@ -5,4 +5,4 @@ entries: sis-hydrology-variables-derived-seasonal-reforecast
 live: true
 ---
 
-This dataset has been superceded and will be deprecated in due course. Users are kindly asked to migrate to this CDS [dataset](https://cds.climate.copernicus.eu/datasets/sis-hydrology-europe-seasonal-reforecast).
+This dataset has been superseded and access to the data will be closed in due course. Users are requested to migrate to this CDS [dataset](https://cds.climate.copernicus.eu/datasets/sis-hydrology-europe-seasonal-reforecast), which continues to be supported.
