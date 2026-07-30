@@ -2,7 +2,7 @@
 date: 2026-06-08T00:00:00Z
 severity: warning
 entries: derived-era5-single-levels-daily-statistics
-live: true
+live: false
 ---
 An issue with the following parameters has been identified:
 
