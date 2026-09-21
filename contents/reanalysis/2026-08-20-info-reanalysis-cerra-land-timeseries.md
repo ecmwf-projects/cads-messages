@@ -5,5 +5,5 @@ entries: reanalysis-cerra-land-timeseries
 live: true
 ---
 
-The dataset presented here is a subset of selected parameters in <span style="color:red"><em>Zarr format</em></span> from the full [CDS CERRA-Land sub-daily regional reanalysis data for Europe from 1984 to present](https://cds.climate.copernicus.eu/datasets/reanalysis-cerra-land?tab=overview). *Requirements for additional parameters may be considered*. Please raise your request with ECMWF Support [here](https://jira.ecmwf.int/plugins/servlet/desk/portal/1/create/202).
+The dataset presented here is a subset of selected parameters from the full [CDS CERRA-Land sub-daily regional reanalysis data for Europe from 1984 to present](https://cds.climate.copernicus.eu/datasets/reanalysis-cerra-land?tab=overview) now available in analysis-ready, cloud-optimised <span style="color:red"><em>Zarr format</em></span>. *Requirements for additional parameters may be considered*. Please raise your request with ECMWF Support [here](https://jira.ecmwf.int/plugins/servlet/desk/portal/1/create/202).
 
