@@ -4,4 +4,4 @@ severity: warning
 entries: reanalysis-pan-carra-means
 live: true
 ---
-Maximum and minimum temperature, surface runoff and wind gust are missing from parts of this dataset. We are working on back-archiving the data. More details in the [known issues document](https://confluence.ecmwf.int/display/CKB/Copernicus+pan-Arctic+Regional+Reanalysis+%28CARRA2%29%3A+known+issues).
+Wind gust is not yet provided. Surface runoff and fog are missing from large parts of this dataset. There are some gaps in maximum and minimum temperatures and sea ice surface temperature. We are working on back-archiving the data. More details in the [known issues document](https://confluence.ecmwf.int/display/CKB/Copernicus+pan-Arctic+Regional+Reanalysis+%28CARRA2%29%3A+known+issues).
