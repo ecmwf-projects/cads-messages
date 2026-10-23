@@ -1,8 +1,7 @@
 ---
-date: 2025-09-19T00:00:00Z
+date: 2026-06-11T00:00:00Z
 live: false
-severity: warning
+severity: info
 ---
 
-Scheduled System Session affecting Service reliability - 22 September 2025. Please follow status [here](https://status.ecmwf.int/) or in our [forum](https://forum.ecmwf.int/t/scheduled-maintenance-of-the-cloud-infrastructure-on-22-september-2025/14173)
-
+Upcoming essential maintenance sessions on Data Stores underlying infrastructure on 15 June. Service disruption expected. For further details, please [visit our forum announcement](https://forum.ecmwf.int/t/upcoming-essential-maintenance-sessions-on-data-stores-underlying-infrastructure-part-2/150414).

@@ -1,7 +1,8 @@
 ---
-date: 2025-09-19T00:00:00Z
-live: false
-severity: warning
+date: 2026-10-06T00:00:00Z
+live: true
+severity: info
 ---
 
-Scheduled System Session affecting Service reliability - 22 September 2025. Please follow status [here](https://status.ecmwf.int/) or in our [forum](https://forum.ecmwf.int/t/scheduled-maintenance-of-the-cloud-infrastructure-on-22-september-2025/14173)
+The [CDS Terms of Use](https://cds.climate.copernicus.eu/disclaimer-privacy) will be updated on 28 October 2026. Continued use of Copernicus Products and Services through the CDS after this date constitutes acceptance of the updated terms. If you do not accept the change, please [contact ECMWF Support](https://jira.ecmwf.int/plugins/servlet/desk/portal/1/create/202) before 27 October 2026.
+ **[More information about the upcoming change.](https://forum.ecmwf.int/t/upcoming-cds-terms-of-use-change/15374)**
