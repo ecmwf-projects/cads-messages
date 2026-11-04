@@ -1,7 +1,7 @@
 ---
-date: 2026-10-27T00:00:00Z
+date: 2026-11-04T00:00:00Z
 severity: warning
 entries: insitu-gridded-observations-europe
 live: true
 ---
-This dataset will soon be updated to also provide E-OBS_EU, released under an open data (CC-BY) licence. When that update happens (and not before) the API requests will need to be adapted: a new "licence_type" key will be required ("restricted_research_licence" for E-OBS, "open_data_licence" for E-OBS_EU), the "period" key will be removed (only the full period will be available).
+New dataset implementation to support open data. API users will need to update their existing scripts. More information is available in this forum announcement: <https://forum.ecmwf.int/t/e-obs-daily-gridded-data-new-dataset-implementation-to-support-open-data/15543>
